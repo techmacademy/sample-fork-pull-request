@@ -1,3 +1,5 @@
 function returnLength(string1) {
-	return string1.length();
+	if(typeof string1 == "string") {
+		return string1.length();
+	}
 }
