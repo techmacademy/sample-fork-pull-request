@@ -1,3 +1,5 @@
-function returnStringLength(string1) {
+functio stringLengths(string1) {
+
 	return string1.length();
+
 }
